@@ -17,12 +17,7 @@
 ** limitations under the License.
 */
 -->
+
 <resources>
-    <color name="candidate_normal">#FF000000</color>
-    <color name="candidate_recommended">#FFE35900</color>
-    <color name="candidate_other">#ff808080</color>
-    <color name="candidate_background">#bbffffff</color>
-    <color name="colorAccent">@android:color/white</color>
-    <color name="colorPrimary">@android:color/primary_text_light</color>
-    <color name="colorPrimaryDark">@android:color/primary_text_dark</color>
+    <dimen name="key_height">46dip</dimen>
 </resources>

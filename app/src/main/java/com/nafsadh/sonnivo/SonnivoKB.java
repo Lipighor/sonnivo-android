@@ -629,7 +629,7 @@ public class SonnivoKB extends InputMethodService
             updateCandidates();
         } else {
             getCurrentInputConnection().commitText(
-                    String.valueOf((char) primaryCode), 1);
+                    String.valueOf((char) (primaryCode)), 1);
         }
     }
 
